@@ -1,5 +1,0 @@
-Add the word REALLY before the word cheese in the following sentence.
-
-I like cheese.
-
-Put your cursor over the c in cheese and then type REALLY.

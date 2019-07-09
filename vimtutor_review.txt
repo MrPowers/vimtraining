@@ -1,0 +1,78 @@
+This document makes it easy to practice everything you learned in vimtutor.
+
+It's easy to work through this document quickly.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAVIGATION
+
+Move your cursor to Z.
+
+-----
+-----
+-----
+--Z--
+-----
+-----
+
+Press j to go down a few lines and then press l to move the cursor right.
+
+Or press 6 gg to skip to line 6 and then press l a couple of times.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DELETING CHARACTERS
+
+Delete all the numbers in the following line.
+
+T8his i99s a s234ecret mess44age
+
+Press x when the cursor is over the numbers to delete them.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INSERTING
+
+Add the word REALLY before the word cheese in the following sentence.
+
+I like cheese.
+
+Put your cursor over the c in cheese and then type REALLY.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DELETING WORDS
+
+Delete all the words that begin with the letter c in the following sentence.
+
+I cats like crazy swimming.
+
+Move the cursor on top of the words that start with a c and press dw (short for delete word).
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DELETE TILL END OF LINE
+
+Delete all the text after the period.
+
+I am wearing a hat.sdf werqsdl;fkj  asdfasdf
+
+Put your cursor on the character after the period and then press D to delete the rest of the line.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DELETE LINE
+
+Delete all of the lines that start with XXX.
+
+Where
+XXX
+is
+XXX
+XXX
+XXX
+my
+cat
+XXX
+
+Navigate to all the lines that start with XXX and press dd.
