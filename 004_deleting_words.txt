@@ -1,0 +1,5 @@
+Delete all the words that begin with the letter c in the following sentence.
+
+I cats like crazy swimming.
+
+Move the cursor on top of the words that start with a c and press dw (short for delete word).

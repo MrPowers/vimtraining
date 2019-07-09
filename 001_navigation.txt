@@ -1,0 +1,13 @@
+Move your cursor to the O
+
+XXXXX
+XXXXX
+XXXXX
+XX0XX
+XXXXX
+XXXXX
+
+
+Press j to go down a few lines and then press l to move the cursor right.
+
+Or press 6 gg to skip to line 6 and then press l a couple of times.

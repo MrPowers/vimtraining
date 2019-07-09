@@ -1,0 +1,5 @@
+Delete all the numbers in the following line.
+
+T8his i99s a s234ecret mess44age
+
+Press x when the cursor is over the numbers to delete them.
